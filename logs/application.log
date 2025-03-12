@@ -1,0 +1,1047 @@
+2025-03-07 16:10:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-07 16:10:00 INFO  LoginTest:25 - Initializing test setup...
+2025-03-07 16:10:01 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-07 16:10:01 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-07 16:10:08 INFO  LoginTest:29 - Test setup completed.
+2025-03-07 16:10:08 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-07 16:10:08 INFO  LoginPage:35 - Starting login process...
+2025-03-07 16:10:08 INFO  LoginPage:20 - Entering username: duttaryan2002@gmail.com
+2025-03-07 16:10:08 INFO  LoginPage:25 - Entering password: [HIDDEN]
+2025-03-07 16:10:08 INFO  LoginPage:30 - Clicking on Login button
+2025-03-07 16:10:10 INFO  LoginPage:39 - Login attempt completed.
+2025-03-07 16:10:13 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-07 16:10:13 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-07 16:10:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-07 16:10:36 INFO  LoginTest:25 - Initializing test setup...
+2025-03-07 16:10:37 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-07 16:10:37 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-07 16:10:43 INFO  LoginTest:29 - Test setup completed.
+2025-03-07 16:10:43 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-07 16:10:43 INFO  LoginPage:35 - Starting login process...
+2025-03-07 16:10:43 INFO  LoginPage:20 - Entering username: duttaryan2002@gmail.com
+2025-03-07 16:10:43 INFO  LoginPage:25 - Entering password: [HIDDEN]
+2025-03-07 16:10:43 INFO  LoginPage:30 - Clicking on Login button
+2025-03-07 16:10:45 INFO  LoginPage:39 - Login attempt completed.
+2025-03-07 16:10:48 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-07 16:10:48 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-07 16:10:48 INFO  LoginTest:52 - Reading user data from Excel file...
+2025-03-07 16:10:49 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-07 16:10:49 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-07 16:10:49 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-07 16:10:49 INFO  LoginTest:70 - Excel data loading completed.
+2025-03-07 16:10:49 INFO  LoginTest:25 - Initializing test setup...
+2025-03-07 16:10:49 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-07 16:10:49 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-07 16:10:54 INFO  LoginTest:29 - Test setup completed.
+2025-03-07 16:10:54 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-07 16:10:54 INFO  LoginPage:35 - Starting login process...
+2025-03-07 16:10:54 INFO  LoginPage:20 - Entering username: duttaryan2002@gmail.com
+2025-03-07 16:10:54 INFO  LoginPage:25 - Entering password: [HIDDEN]
+2025-03-07 16:10:54 INFO  LoginPage:30 - Clicking on Login button
+2025-03-07 16:10:56 INFO  LoginPage:39 - Login attempt completed.
+2025-03-07 16:10:59 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-07 16:10:59 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-07 16:10:59 INFO  LoginTest:25 - Initializing test setup...
+2025-03-07 16:10:59 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-07 16:10:59 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-07 16:11:04 INFO  LoginTest:29 - Test setup completed.
+2025-03-07 16:11:04 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-07 16:11:04 INFO  LoginPage:35 - Starting login process...
+2025-03-07 16:11:04 INFO  LoginPage:20 - Entering username: duttaryan2002@gmail.com
+2025-03-07 16:11:04 INFO  LoginPage:25 - Entering password: [HIDDEN]
+2025-03-07 16:11:04 INFO  LoginPage:30 - Clicking on Login button
+2025-03-07 16:11:06 INFO  LoginPage:39 - Login attempt completed.
+2025-03-07 16:11:09 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-07 16:11:09 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-07 16:11:09 INFO  LoginTest:25 - Initializing test setup...
+2025-03-07 16:11:09 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-07 16:11:09 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-07 16:11:14 INFO  LoginTest:29 - Test setup completed.
+2025-03-07 16:11:14 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-07 16:11:14 INFO  LoginPage:35 - Starting login process...
+2025-03-07 16:11:14 INFO  LoginPage:20 - Entering username: duttaryan2002@gmail.com
+2025-03-07 16:11:15 INFO  LoginPage:25 - Entering password: [HIDDEN]
+2025-03-07 16:11:15 INFO  LoginPage:30 - Clicking on Login button
+2025-03-07 16:11:18 INFO  LoginPage:39 - Login attempt completed.
+2025-03-07 16:11:21 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-07 16:11:21 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-08 13:34:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-08 13:34:50 INFO  LoginTest:25 - Initializing test setup...
+2025-03-08 13:34:53 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-08 13:34:53 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-08 13:34:59 INFO  LoginTest:29 - Test setup completed.
+2025-03-08 13:34:59 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-08 13:34:59 INFO  LoginPage:35 - Starting login process...
+2025-03-08 13:34:59 INFO  LoginPage:20 - Entering username: duttaryan2002@gmail.com
+2025-03-08 13:34:59 INFO  LoginPage:25 - Entering password: [HIDDEN]
+2025-03-08 13:34:59 INFO  LoginPage:30 - Clicking on Login button
+2025-03-08 13:35:00 INFO  LoginPage:39 - Login attempt completed.
+2025-03-08 13:35:03 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-08 13:35:03 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-08 13:35:04 INFO  LoginTest:52 - Reading user data from Excel file...
+2025-03-08 13:35:04 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-08 13:35:04 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-08 13:35:04 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-08 13:35:04 INFO  LoginTest:70 - Excel data loading completed.
+2025-03-08 13:35:04 INFO  LoginTest:25 - Initializing test setup...
+2025-03-08 13:35:04 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-08 13:35:04 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-08 13:35:09 INFO  LoginTest:29 - Test setup completed.
+2025-03-08 13:35:09 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-08 13:35:09 INFO  LoginPage:35 - Starting login process...
+2025-03-08 13:35:09 INFO  LoginPage:20 - Entering username: duttaryan2002@gmail.com
+2025-03-08 13:35:09 INFO  LoginPage:25 - Entering password: [HIDDEN]
+2025-03-08 13:35:09 INFO  LoginPage:30 - Clicking on Login button
+2025-03-08 13:35:10 INFO  LoginPage:39 - Login attempt completed.
+2025-03-08 13:35:13 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-08 13:35:13 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-08 13:35:13 INFO  LoginTest:25 - Initializing test setup...
+2025-03-08 13:35:13 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-08 13:35:13 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-08 13:35:18 INFO  LoginTest:29 - Test setup completed.
+2025-03-08 13:35:18 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-08 13:35:18 INFO  LoginPage:35 - Starting login process...
+2025-03-08 13:35:18 INFO  LoginPage:20 - Entering username: duttaryan2002@gmail.com
+2025-03-08 13:35:18 INFO  LoginPage:25 - Entering password: [HIDDEN]
+2025-03-08 13:35:18 INFO  LoginPage:30 - Clicking on Login button
+2025-03-08 13:35:19 INFO  LoginPage:39 - Login attempt completed.
+2025-03-08 13:35:22 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-08 13:35:22 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-08 13:35:22 INFO  LoginTest:25 - Initializing test setup...
+2025-03-08 13:35:22 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-08 13:35:22 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-08 13:35:26 INFO  LoginTest:29 - Test setup completed.
+2025-03-08 13:35:26 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-08 13:35:26 INFO  LoginPage:35 - Starting login process...
+2025-03-08 13:35:26 INFO  LoginPage:20 - Entering username: duttaryan2002@gmail.com
+2025-03-08 13:35:27 INFO  LoginPage:25 - Entering password: [HIDDEN]
+2025-03-08 13:35:27 INFO  LoginPage:30 - Clicking on Login button
+2025-03-08 13:35:28 INFO  LoginPage:39 - Login attempt completed.
+2025-03-08 13:35:31 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-08 13:35:31 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-08 13:59:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-08 13:59:15 INFO  LoginTest:25 - Initializing test setup...
+2025-03-08 13:59:18 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-08 13:59:18 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-08 13:59:26 INFO  LoginTest:29 - Test setup completed.
+2025-03-08 13:59:26 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-08 13:59:26 INFO  LoginPage:35 - Starting login process...
+2025-03-08 13:59:26 INFO  LoginPage:20 - Entering username: duttaryan2002@gmail.com
+2025-03-08 13:59:26 INFO  LoginPage:25 - Entering password: [HIDDEN]
+2025-03-08 13:59:27 INFO  LoginPage:30 - Clicking on Login button
+2025-03-08 13:59:28 INFO  LoginPage:39 - Login attempt completed.
+2025-03-08 13:59:31 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-08 13:59:31 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-08 13:59:31 INFO  LoginTest:52 - Reading user data from Excel file...
+2025-03-08 13:59:32 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-08 13:59:32 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-08 13:59:32 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-08 13:59:32 INFO  LoginTest:70 - Excel data loading completed.
+2025-03-08 13:59:32 INFO  LoginTest:25 - Initializing test setup...
+2025-03-08 13:59:32 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-08 13:59:32 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-08 21:09:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-08 21:09:43 INFO  LoginTest:25 - Initializing test setup...
+2025-03-08 21:09:45 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-08 21:09:45 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-08 21:09:51 INFO  LoginTest:29 - Test setup completed.
+2025-03-08 21:09:51 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-08 21:09:51 INFO  LoginPage:35 - Starting login process...
+2025-03-08 21:09:51 INFO  LoginPage:20 - Entering username: duttaryan2002@gmail.com
+2025-03-08 21:09:51 INFO  LoginPage:25 - Entering password: [HIDDEN]
+2025-03-08 21:09:51 INFO  LoginPage:30 - Clicking on Login button
+2025-03-08 21:09:52 INFO  LoginPage:39 - Login attempt completed.
+2025-03-08 21:09:55 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-08 21:09:55 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-08 21:09:56 INFO  LoginTest:52 - Reading user data from Excel file...
+2025-03-08 21:09:56 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-08 21:09:56 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-08 21:09:56 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-08 21:09:56 INFO  LoginTest:70 - Excel data loading completed.
+2025-03-08 21:09:56 INFO  LoginTest:25 - Initializing test setup...
+2025-03-08 21:09:56 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-08 21:09:56 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-08 21:10:00 INFO  LoginTest:29 - Test setup completed.
+2025-03-08 21:10:00 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-08 21:10:00 INFO  LoginPage:35 - Starting login process...
+2025-03-08 21:10:00 INFO  LoginPage:20 - Entering username: duttaryan2002@gmail.com
+2025-03-08 21:10:01 INFO  LoginPage:25 - Entering password: [HIDDEN]
+2025-03-08 21:10:01 INFO  LoginPage:30 - Clicking on Login button
+2025-03-08 21:10:02 INFO  LoginPage:39 - Login attempt completed.
+2025-03-08 21:10:05 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-08 21:10:05 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-08 21:10:05 INFO  LoginTest:25 - Initializing test setup...
+2025-03-08 21:10:05 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-08 21:10:06 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-08 21:10:53 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-08 21:10:53 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-08 21:10:58 INFO  LoginPage:35 - Starting login process...
+2025-03-08 21:10:58 INFO  LoginPage:20 - Entering username: your_username
+2025-03-08 21:10:58 INFO  LoginPage:25 - Entering password: [HIDDEN]
+2025-03-08 21:12:06 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-08 21:12:06 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-08 21:12:12 INFO  LoginPage:35 - Starting login process...
+2025-03-08 21:12:12 INFO  LoginPage:20 - Entering username: your_username
+2025-03-08 21:12:12 INFO  LoginPage:25 - Entering password: [HIDDEN]
+2025-03-08 21:12:46 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-08 21:12:46 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-08 21:12:52 INFO  LoginPage:35 - Starting login process...
+2025-03-08 21:12:52 INFO  LoginPage:20 - Entering username: your_username
+2025-03-08 21:12:52 INFO  LoginPage:25 - Entering password: [HIDDEN]
+2025-03-08 21:16:15 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-08 21:16:15 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-08 21:16:24 INFO  LoginPage:42 - Starting login process...
+2025-03-08 21:16:24 INFO  LoginPage:27 - Entering username: your_username
+2025-03-08 21:16:24 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-08 21:30:02 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-08 21:30:02 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-08 21:30:13 INFO  LoginPage:42 - Starting login process...
+2025-03-08 21:30:13 INFO  LoginPage:27 - Entering username: your_username
+2025-03-08 21:30:13 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-08 21:33:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-08 21:33:27 INFO  LoginTest:25 - Initializing test setup...
+2025-03-08 21:33:29 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-08 21:33:29 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-08 21:33:37 INFO  LoginTest:29 - Test setup completed.
+2025-03-08 21:33:37 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-08 21:33:37 INFO  LoginPage:42 - Starting login process...
+2025-03-08 21:33:37 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-08 21:33:38 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-08 21:33:38 INFO  LoginPage:37 - Clicking on Login button
+2025-03-08 21:33:39 INFO  LoginPage:46 - Login attempt completed.
+2025-03-08 21:42:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-08 21:42:23 INFO  LoginTest:25 - Initializing test setup...
+2025-03-08 21:42:24 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-08 21:42:24 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-08 21:42:33 INFO  LoginTest:29 - Test setup completed.
+2025-03-08 21:42:33 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-08 21:42:33 INFO  LoginPage:42 - Starting login process...
+2025-03-08 21:42:33 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-08 21:42:33 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-08 21:42:33 INFO  LoginPage:37 - Clicking on Login button
+2025-03-08 21:42:38 INFO  LoginPage:46 - Login attempt completed.
+2025-03-08 21:42:41 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-08 21:42:41 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-08 21:42:41 INFO  LoginTest:52 - Reading user data from Excel file...
+2025-03-08 21:42:42 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-08 21:42:42 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-08 21:42:42 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-08 21:42:42 INFO  LoginTest:70 - Excel data loading completed.
+2025-03-08 21:42:42 INFO  LoginTest:25 - Initializing test setup...
+2025-03-08 21:42:42 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-08 21:42:42 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-09 16:54:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-09 16:54:02 INFO  LoginTest:25 - Initializing test setup...
+2025-03-09 16:54:03 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-09 16:54:03 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-09 16:54:13 INFO  LoginTest:29 - Test setup completed.
+2025-03-09 16:54:13 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-09 16:54:13 INFO  LoginPage:42 - Starting login process...
+2025-03-09 16:54:13 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-09 16:54:13 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-09 16:54:13 INFO  LoginPage:37 - Clicking on Login button
+2025-03-09 16:54:19 INFO  LoginPage:46 - Login attempt completed.
+2025-03-09 16:54:22 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-09 16:54:22 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-09 16:54:23 INFO  LoginTest:52 - Reading user data from Excel file...
+2025-03-09 16:54:24 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-09 16:54:24 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-09 16:54:24 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-09 16:54:24 INFO  LoginTest:70 - Excel data loading completed.
+2025-03-09 16:54:24 INFO  LoginTest:25 - Initializing test setup...
+2025-03-09 16:54:24 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-09 16:54:24 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-09 16:54:32 INFO  LoginTest:29 - Test setup completed.
+2025-03-09 16:54:32 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-09 16:54:32 INFO  LoginPage:42 - Starting login process...
+2025-03-09 16:54:32 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-09 16:54:32 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-09 16:54:32 INFO  LoginPage:37 - Clicking on Login button
+2025-03-09 16:54:34 INFO  LoginPage:46 - Login attempt completed.
+2025-03-09 16:54:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-09 16:54:58 INFO  LoginTest:22 - Initializing test setup...
+2025-03-09 16:54:59 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-09 16:54:59 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-09 16:55:08 INFO  LoginTest:26 - Test setup completed.
+2025-03-09 16:55:08 INFO  LoginTest:31 - Executing Single User Login Test
+2025-03-09 16:55:08 INFO  LoginPage:42 - Starting login process...
+2025-03-09 16:55:08 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-09 16:55:08 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-09 16:55:08 INFO  LoginPage:37 - Clicking on Login button
+2025-03-09 16:55:11 INFO  LoginPage:46 - Login attempt completed.
+2025-03-09 16:55:14 INFO  LoginTest:36 - Single User Login Test Completed
+2025-03-09 16:55:14 INFO  LoginTest:49 - Reading user data from Excel file...
+2025-03-09 16:55:15 INFO  LoginTest:62 - Loaded user: duttaryan2002@gmail.com
+2025-03-09 16:55:15 INFO  LoginTest:62 - Loaded user: duttaryan2002@gmail.com
+2025-03-09 16:55:15 INFO  LoginTest:62 - Loaded user: duttaryan2002@gmail.com
+2025-03-09 16:55:15 INFO  LoginTest:67 - Excel data loading completed.
+2025-03-09 16:55:15 INFO  LoginTest:41 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-09 16:55:15 INFO  LoginPage:42 - Starting login process...
+2025-03-09 16:55:15 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-09 16:55:15 INFO  LoginTest:41 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-09 16:55:15 INFO  LoginPage:42 - Starting login process...
+2025-03-09 16:55:15 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-09 16:55:15 INFO  LoginTest:41 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-09 16:55:15 INFO  LoginPage:42 - Starting login process...
+2025-03-09 16:55:15 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-09 16:55:15 INFO  LoginTest:73 - Closing the browser and ending the test.
+2025-03-09 18:30:22 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-09 18:30:22 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-09 18:30:36 INFO  LoginPage:42 - Starting login process...
+2025-03-09 18:30:36 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-09 18:30:36 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-09 18:30:36 INFO  LoginPage:37 - Clicking on Login button
+2025-03-09 18:30:39 INFO  LoginPage:46 - Login attempt completed.
+2025-03-09 18:30:39 ERROR LoginPage:56 - Login verification failed.
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "this.wait" is null
+	at gh_pages.LoginPage.isLoginSuccessful(LoginPage.java:51)
+	at stepDefinitions.LoginSteps.user_should_be_logged_in_successfully(LoginSteps.java:25)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.core.runtime.Runtime.lambda$executePickle$6(Runtime.java:107)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137)
+	at io.cucumber.core.runtime.Runtime.lambda$executePickle$7(Runtime.java:107)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at io.cucumber.core.runtime.Runtime$SameThreadExecutorService.execute(Runtime.java:235)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:124)
+	at io.cucumber.core.runtime.Runtime.lambda$runFeatures$3(Runtime.java:89)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:215)
+	at java.base/java.util.stream.SliceOps$1$1.accept(SliceOps.java:200)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.tryAdvance(ArrayList.java:1686)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:147)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:588)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:574)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:560)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:265)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:727)
+	at io.cucumber.core.runtime.Runtime.runFeatures(Runtime.java:90)
+	at io.cucumber.core.runtime.Runtime.lambda$run$0(Runtime.java:78)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:148)
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:163)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:146)
+	at io.cucumber.core.runtime.Runtime.run(Runtime.java:78)
+	at io.cucumber.core.cli.Main.run(Main.java:87)
+	at io.cucumber.core.cli.Main.main(Main.java:30)
+2025-03-10 11:44:38 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-10 11:44:38 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-10 11:44:49 INFO  LoginPage:42 - Starting login process...
+2025-03-10 11:44:49 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-10 11:44:49 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-10 11:44:49 INFO  LoginPage:37 - Clicking on Login button
+2025-03-10 11:44:51 INFO  LoginPage:46 - Login attempt completed.
+2025-03-10 11:44:51 ERROR LoginPage:56 - Login verification failed.
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "this.wait" is null
+	at gh_pages.LoginPage.isLoginSuccessful(LoginPage.java:51)
+	at stepDefinitions.LoginSteps.user_should_be_logged_in_successfully(LoginSteps.java:25)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.core.runtime.Runtime.lambda$executePickle$6(Runtime.java:107)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137)
+	at io.cucumber.core.runtime.Runtime.lambda$executePickle$7(Runtime.java:107)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at io.cucumber.core.runtime.Runtime$SameThreadExecutorService.execute(Runtime.java:235)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:124)
+	at io.cucumber.core.runtime.Runtime.lambda$runFeatures$3(Runtime.java:89)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:215)
+	at java.base/java.util.stream.SliceOps$1$1.accept(SliceOps.java:200)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.tryAdvance(ArrayList.java:1686)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:147)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:588)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:574)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:560)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:265)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:727)
+	at io.cucumber.core.runtime.Runtime.runFeatures(Runtime.java:90)
+	at io.cucumber.core.runtime.Runtime.lambda$run$0(Runtime.java:78)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:148)
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:163)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:146)
+	at io.cucumber.core.runtime.Runtime.run(Runtime.java:78)
+	at io.cucumber.core.cli.Main.run(Main.java:87)
+	at io.cucumber.core.cli.Main.main(Main.java:30)
+2025-03-10 11:57:31 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-10 11:57:31 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-10 11:57:42 INFO  LoginPage:42 - Starting login process...
+2025-03-10 11:57:42 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-10 11:57:42 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-10 11:57:43 INFO  LoginPage:37 - Clicking on Login button
+2025-03-10 11:57:45 INFO  LoginPage:46 - Login attempt completed.
+2025-03-10 11:57:45 INFO  LoginPage:55 - Login successful: 
+2025-03-10 14:01:51 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-10 14:01:51 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-10 14:02:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-10 14:02:03 INFO  LoginTest:25 - Initializing test setup...
+2025-03-10 14:02:05 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-10 14:02:05 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-10 14:02:16 INFO  LoginTest:29 - Test setup completed.
+2025-03-10 14:02:16 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-10 14:02:16 INFO  LoginPage:42 - Starting login process...
+2025-03-10 14:02:16 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-10 14:02:16 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-10 14:02:16 INFO  LoginPage:37 - Clicking on Login button
+2025-03-10 14:02:19 INFO  LoginPage:46 - Login attempt completed.
+2025-03-10 14:02:22 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-10 14:02:22 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-10 14:02:23 INFO  LoginTest:52 - Reading user data from Excel file...
+2025-03-10 14:02:24 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-10 14:02:24 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-10 14:02:24 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-10 14:02:24 INFO  LoginTest:70 - Excel data loading completed.
+2025-03-10 14:02:24 INFO  LoginTest:25 - Initializing test setup...
+2025-03-10 14:02:24 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-10 14:02:24 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-10 14:02:34 INFO  LoginTest:29 - Test setup completed.
+2025-03-10 14:02:34 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-10 14:02:34 INFO  LoginPage:42 - Starting login process...
+2025-03-10 14:02:34 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-10 14:02:34 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-10 14:02:34 INFO  LoginTest:25 - Initializing test setup...
+2025-03-10 14:02:34 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-10 14:02:34 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-10 19:57:39 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-10 19:57:39 INFO  LoginTest:25 - Initializing test setup...
+2025-03-10 19:57:41 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-10 19:57:41 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-10 19:57:50 INFO  LoginTest:29 - Test setup completed.
+2025-03-10 19:57:50 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-10 19:57:50 INFO  LoginPage:42 - Starting login process...
+2025-03-10 19:57:50 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-10 19:57:50 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-10 19:57:50 INFO  LoginPage:37 - Clicking on Login button
+2025-03-10 19:57:51 INFO  LoginPage:46 - Login attempt completed.
+2025-03-10 19:57:54 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-10 19:57:54 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-10 19:57:54 INFO  LoginTest:52 - Reading user data from Excel file...
+2025-03-10 19:57:55 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-10 19:57:55 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-10 19:57:55 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-10 19:57:55 INFO  LoginTest:70 - Excel data loading completed.
+2025-03-10 19:57:55 INFO  LoginTest:25 - Initializing test setup...
+2025-03-10 19:57:55 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-10 19:57:55 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-10 20:10:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-10 20:10:42 INFO  LoginTest:25 - Initializing test setup...
+2025-03-10 20:10:43 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-10 20:10:43 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-10 20:10:52 INFO  LoginTest:29 - Test setup completed.
+2025-03-10 20:10:52 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-10 20:10:52 INFO  LoginPage:42 - Starting login process...
+2025-03-10 20:10:52 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-10 20:10:52 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-10 20:10:52 INFO  LoginPage:37 - Clicking on Login button
+2025-03-10 20:10:52 INFO  LoginPage:46 - Login attempt completed.
+2025-03-10 20:10:55 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-10 20:10:56 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-10 20:10:56 INFO  LoginTest:52 - Reading user data from Excel file...
+2025-03-10 20:10:56 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-10 20:10:56 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-10 20:10:56 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-10 20:10:56 INFO  LoginTest:70 - Excel data loading completed.
+2025-03-10 20:10:56 INFO  LoginTest:25 - Initializing test setup...
+2025-03-10 20:10:56 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-10 20:10:56 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-10 20:11:04 INFO  LoginTest:29 - Test setup completed.
+2025-03-10 20:11:04 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-10 20:11:04 INFO  LoginPage:42 - Starting login process...
+2025-03-10 20:11:04 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-10 20:11:04 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-10 20:11:04 INFO  LoginPage:37 - Clicking on Login button
+2025-03-10 20:11:05 INFO  LoginPage:46 - Login attempt completed.
+2025-03-10 20:11:08 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-10 20:11:08 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-10 20:11:08 INFO  LoginTest:25 - Initializing test setup...
+2025-03-10 20:11:08 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-10 20:11:08 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-10 20:17:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-10 20:17:10 INFO  LoginTest:25 - Initializing test setup...
+2025-03-10 20:17:11 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-10 20:17:11 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-10 20:17:20 INFO  LoginTest:29 - Test setup completed.
+2025-03-10 20:17:20 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-10 20:17:20 INFO  LoginPage:42 - Starting login process...
+2025-03-10 20:17:20 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-10 20:17:20 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-10 20:17:20 INFO  LoginPage:37 - Clicking on Login button
+2025-03-10 20:17:21 INFO  LoginPage:46 - Login attempt completed.
+2025-03-10 20:17:24 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-10 20:17:24 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-10 20:17:24 INFO  LoginTest:52 - Reading user data from Excel file...
+2025-03-10 20:17:25 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-10 20:17:25 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-10 20:17:25 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-10 20:17:25 INFO  LoginTest:70 - Excel data loading completed.
+2025-03-10 20:17:25 INFO  LoginTest:25 - Initializing test setup...
+2025-03-10 20:17:25 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-10 20:17:25 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-10 20:29:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-10 20:30:04 INFO  LoginPage:42 - Starting login process...
+2025-03-10 20:30:04 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-10 20:30:04 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-10 20:30:04 INFO  LoginPage:37 - Clicking on Login button
+2025-03-10 20:30:05 INFO  LoginPage:46 - Login attempt completed.
+2025-03-10 20:30:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-10 20:30:35 INFO  LoginPage:42 - Starting login process...
+2025-03-10 20:30:35 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-10 20:30:35 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-10 20:30:36 INFO  LoginPage:37 - Clicking on Login button
+2025-03-10 20:30:36 INFO  LoginPage:46 - Login attempt completed.
+2025-03-10 20:31:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-10 20:31:18 INFO  LoginPage:42 - Starting login process...
+2025-03-10 20:31:18 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-10 20:31:18 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-10 20:31:18 INFO  LoginPage:37 - Clicking on Login button
+2025-03-10 20:31:19 INFO  LoginPage:46 - Login attempt completed.
+2025-03-10 20:31:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-10 20:32:07 INFO  LoginPage:42 - Starting login process...
+2025-03-10 20:32:07 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-10 20:32:07 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-10 20:32:07 INFO  LoginPage:37 - Clicking on Login button
+2025-03-10 20:32:08 INFO  LoginPage:46 - Login attempt completed.
+2025-03-10 21:55:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-10 21:55:57 INFO  LoginTest:25 - Initializing test setup...
+2025-03-10 21:56:01 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-10 21:56:01 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-10 21:56:14 INFO  LoginTest:29 - Test setup completed.
+2025-03-10 21:56:14 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-10 21:56:14 INFO  LoginPage:42 - Starting login process...
+2025-03-10 21:56:14 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-10 21:56:14 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-10 21:56:14 INFO  LoginPage:37 - Clicking on Login button
+2025-03-10 21:56:15 INFO  LoginPage:46 - Login attempt completed.
+2025-03-10 21:56:18 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-10 21:56:18 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-10 21:56:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-10 21:56:32 INFO  LoginTest:25 - Initializing test setup...
+2025-03-10 21:56:33 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-10 21:56:33 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-10 21:57:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-10 21:57:26 INFO  LoginTest:25 - Initializing test setup...
+2025-03-10 21:57:28 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-10 21:57:28 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-10 21:57:36 INFO  LoginTest:29 - Test setup completed.
+2025-03-10 21:57:36 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-10 21:57:36 INFO  LoginPage:42 - Starting login process...
+2025-03-10 21:57:36 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-10 21:57:36 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-10 21:57:37 INFO  LoginPage:37 - Clicking on Login button
+2025-03-10 21:57:37 INFO  LoginPage:46 - Login attempt completed.
+2025-03-10 21:57:40 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-10 21:57:40 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-11 02:39:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-11 02:39:35 INFO  LoginTest:25 - Initializing test setup...
+2025-03-11 02:39:38 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-11 02:39:38 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-11 02:39:50 INFO  LoginTest:29 - Test setup completed.
+2025-03-11 02:39:50 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-11 02:39:50 INFO  LoginPage:42 - Starting login process...
+2025-03-11 02:39:50 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-11 02:39:51 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-11 02:39:51 INFO  LoginPage:37 - Clicking on Login button
+2025-03-11 02:39:52 INFO  LoginPage:46 - Login attempt completed.
+2025-03-11 02:40:12 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-11 02:40:12 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-11 02:40:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-11 02:41:05 INFO  LoginPage:42 - Starting login process...
+2025-03-11 02:41:05 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-11 02:41:05 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-11 02:41:05 INFO  LoginPage:37 - Clicking on Login button
+2025-03-11 02:41:07 INFO  LoginPage:46 - Login attempt completed.
+2025-03-11 02:42:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-11 02:42:55 INFO  LoginPage:42 - Starting login process...
+2025-03-11 02:42:55 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-11 02:42:55 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-11 02:42:55 INFO  LoginPage:37 - Clicking on Login button
+2025-03-11 02:42:56 INFO  LoginPage:46 - Login attempt completed.
+2025-03-11 02:43:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-11 02:43:54 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-11 02:43:54 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-11 02:44:03 INFO  LoginPage:42 - Starting login process...
+2025-03-11 02:44:03 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-11 02:44:03 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-11 02:44:04 INFO  LoginPage:37 - Clicking on Login button
+2025-03-11 02:44:05 INFO  LoginPage:46 - Login attempt completed.
+2025-03-11 02:44:25 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-11 02:44:25 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-11 10:42:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-11 10:42:16 INFO  LoginTest:25 - Initializing test setup...
+2025-03-11 10:42:19 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-11 10:42:19 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-11 10:42:29 INFO  LoginTest:29 - Test setup completed.
+2025-03-11 10:42:29 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-11 10:42:29 INFO  LoginPage:42 - Starting login process...
+2025-03-11 10:42:29 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-11 10:42:29 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-11 10:42:29 INFO  LoginPage:37 - Clicking on Login button
+2025-03-11 10:42:33 INFO  LoginPage:46 - Login attempt completed.
+2025-03-11 10:42:53 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-11 10:42:53 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-11 11:35:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-11 11:35:53 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-11 11:35:53 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-11 11:36:03 INFO  LoginPage:42 - Starting login process...
+2025-03-11 11:36:03 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-11 11:36:04 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-11 11:36:04 INFO  LoginPage:37 - Clicking on Login button
+2025-03-11 11:36:05 INFO  LoginPage:46 - Login attempt completed.
+2025-03-11 11:36:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-11 11:36:51 INFO  LoginTest:25 - Initializing test setup...
+2025-03-11 11:36:53 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-11 11:36:53 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-11 11:37:03 INFO  LoginTest:29 - Test setup completed.
+2025-03-11 11:37:03 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-11 11:37:03 INFO  LoginPage:42 - Starting login process...
+2025-03-11 11:37:03 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-11 11:37:03 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-11 11:37:03 INFO  LoginPage:37 - Clicking on Login button
+2025-03-11 11:37:05 INFO  LoginPage:46 - Login attempt completed.
+2025-03-11 13:34:28 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\dutta\Pom_Design_Model\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-03-11 13:34:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\Pom_Design_Model\testng.xml
+
+2025-03-11 13:34:40 INFO  LoginPage:42 - Starting login process...
+2025-03-11 13:34:40 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-11 13:34:40 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-11 13:34:40 INFO  LoginPage:37 - Clicking on Login button
+2025-03-11 13:34:42 INFO  LoginPage:46 - Login attempt completed.
+2025-03-11 13:35:16 INFO  LoginTest:25 - Initializing test setup...
+2025-03-11 13:35:18 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-11 13:35:18 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-11 13:35:26 INFO  LoginTest:29 - Test setup completed.
+2025-03-11 13:35:26 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-11 13:35:26 INFO  LoginPage:42 - Starting login process...
+2025-03-11 13:35:26 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-11 13:35:26 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-11 13:35:26 INFO  LoginPage:37 - Clicking on Login button
+2025-03-11 13:35:28 INFO  LoginPage:46 - Login attempt completed.
+2025-03-11 13:35:48 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-11 13:35:48 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-11 13:35:48 INFO  LoginTest:52 - Reading user data from Excel file...
+2025-03-11 13:35:49 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-11 13:35:49 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-11 13:35:49 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-11 13:35:49 INFO  LoginTest:70 - Excel data loading completed.
+2025-03-11 13:35:49 INFO  LoginTest:25 - Initializing test setup...
+2025-03-11 13:35:49 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-11 13:35:49 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-11 13:35:57 INFO  LoginTest:29 - Test setup completed.
+2025-03-11 13:35:57 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-11 13:35:57 INFO  LoginPage:42 - Starting login process...
+2025-03-11 13:35:57 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-11 13:35:57 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-11 13:35:57 INFO  LoginPage:37 - Clicking on Login button
+2025-03-11 13:35:59 INFO  LoginPage:46 - Login attempt completed.
+2025-03-11 13:36:02 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-11 13:36:02 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-11 13:36:02 INFO  LoginTest:25 - Initializing test setup...
+2025-03-11 13:36:02 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-11 13:36:02 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-11 13:36:11 INFO  LoginTest:29 - Test setup completed.
+2025-03-11 13:36:11 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-11 13:36:11 INFO  LoginPage:42 - Starting login process...
+2025-03-11 13:36:11 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-11 13:36:11 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-11 13:36:11 INFO  LoginPage:37 - Clicking on Login button
+2025-03-11 13:36:12 INFO  LoginPage:46 - Login attempt completed.
+2025-03-11 13:36:15 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-11 13:36:15 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-11 13:36:17 INFO  LoginTest:25 - Initializing test setup...
+2025-03-11 13:36:17 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-11 13:36:17 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-11 13:36:24 INFO  LoginTest:29 - Test setup completed.
+2025-03-11 13:36:24 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-11 13:36:24 INFO  LoginPage:42 - Starting login process...
+2025-03-11 13:36:24 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-11 13:36:24 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-11 13:36:24 INFO  LoginPage:37 - Clicking on Login button
+2025-03-11 13:36:27 INFO  LoginPage:46 - Login attempt completed.
+2025-03-11 13:36:30 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-11 13:36:30 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-11 13:36:30 INFO  WebDriverManager:1217 - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-11 13:36:30 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-11 13:36:38 INFO  LoginPage:42 - Starting login process...
+2025-03-11 13:36:38 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-11 13:36:38 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-11 13:36:38 INFO  LoginPage:37 - Clicking on Login button
+2025-03-11 13:36:40 INFO  LoginPage:46 - Login attempt completed.
+2025-03-12 00:16:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-12 00:16:58 INFO  LoginTest:25 - Initializing test setup...
+2025-03-12 00:17:00 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 00:17:00 INFO  Downloader:132 - Downloading https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win64/chromedriver-win64.zip
+2025-03-12 00:17:04 INFO  Downloader:193 - Extracting driver from compressed file chromedriver-win64.zip
+2025-03-12 00:17:04 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 00:17:13 INFO  LoginTest:29 - Test setup completed.
+2025-03-12 00:17:13 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-12 00:17:13 INFO  LoginPage:42 - Starting login process...
+2025-03-12 00:17:13 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-12 00:17:13 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-12 00:17:13 INFO  LoginPage:37 - Clicking on Login button
+2025-03-12 00:17:14 INFO  LoginPage:46 - Login attempt completed.
+2025-03-12 00:17:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-12 00:17:43 INFO  LoginTest:52 - Reading user data from Excel file...
+2025-03-12 00:17:43 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-12 00:17:43 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-12 00:17:43 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-12 00:17:43 INFO  LoginTest:70 - Excel data loading completed.
+2025-03-12 00:17:43 INFO  LoginTest:25 - Initializing test setup...
+2025-03-12 00:17:45 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 00:17:45 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 00:17:51 INFO  LoginTest:29 - Test setup completed.
+2025-03-12 00:17:51 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-12 00:17:51 INFO  LoginPage:42 - Starting login process...
+2025-03-12 00:17:51 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-12 00:17:52 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-12 00:17:52 INFO  LoginPage:37 - Clicking on Login button
+2025-03-12 00:17:53 INFO  LoginPage:46 - Login attempt completed.
+2025-03-12 00:17:56 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-12 00:17:56 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-12 00:17:56 INFO  LoginTest:25 - Initializing test setup...
+2025-03-12 00:17:56 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 00:17:56 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 11:25:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-12 11:25:37 INFO  LoginTest:25 - Initializing test setup...
+2025-03-12 11:25:40 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 11:25:40 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 11:25:48 INFO  LoginTest:29 - Test setup completed.
+2025-03-12 11:25:48 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-12 11:25:48 INFO  LoginPage:42 - Starting login process...
+2025-03-12 11:25:48 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-12 11:25:49 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-12 11:25:49 INFO  LoginPage:37 - Clicking on Login button
+2025-03-12 11:25:51 INFO  LoginPage:46 - Login attempt completed.
+2025-03-12 11:26:11 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-12 11:26:11 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-12 11:26:11 INFO  LoginTest:52 - Reading user data from Excel file...
+2025-03-12 11:26:12 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-12 11:26:12 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-12 11:26:12 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-12 11:26:12 INFO  LoginTest:70 - Excel data loading completed.
+2025-03-12 11:26:12 INFO  LoginTest:25 - Initializing test setup...
+2025-03-12 11:26:12 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 11:26:12 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 11:26:21 INFO  LoginTest:29 - Test setup completed.
+2025-03-12 11:26:21 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-12 11:26:21 INFO  LoginPage:42 - Starting login process...
+2025-03-12 11:26:21 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-12 11:26:21 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-12 11:26:21 INFO  LoginPage:37 - Clicking on Login button
+2025-03-12 11:26:23 INFO  LoginPage:46 - Login attempt completed.
+2025-03-12 11:26:26 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-12 11:26:26 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-12 11:26:26 INFO  LoginTest:25 - Initializing test setup...
+2025-03-12 11:26:26 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 11:26:26 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 11:26:33 INFO  LoginTest:29 - Test setup completed.
+2025-03-12 11:26:33 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-12 11:26:33 INFO  LoginPage:42 - Starting login process...
+2025-03-12 11:26:33 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-12 11:26:33 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-12 11:26:33 INFO  LoginPage:37 - Clicking on Login button
+2025-03-12 11:26:35 INFO  LoginPage:46 - Login attempt completed.
+2025-03-12 11:26:38 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-12 11:26:38 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-12 11:26:39 INFO  LoginTest:25 - Initializing test setup...
+2025-03-12 11:26:39 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 11:26:39 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 11:26:45 INFO  LoginTest:29 - Test setup completed.
+2025-03-12 11:26:45 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-12 11:26:45 INFO  LoginPage:42 - Starting login process...
+2025-03-12 11:26:45 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-12 11:26:45 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-12 11:26:45 INFO  LoginPage:37 - Clicking on Login button
+2025-03-12 11:26:48 INFO  LoginPage:46 - Login attempt completed.
+2025-03-12 11:26:51 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-12 11:26:51 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-12 11:44:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-12 11:44:16 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 11:44:16 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 11:44:23 INFO  LoginPage:42 - Starting login process...
+2025-03-12 11:44:23 INFO  LoginPage:27 - Entering username: duttaryan2002@gmail.com
+2025-03-12 11:44:23 INFO  LoginPage:32 - Entering password: [HIDDEN]
+2025-03-12 11:44:23 INFO  LoginPage:37 - Clicking on Login button
+2025-03-12 11:44:25 INFO  LoginPage:46 - Login attempt completed.
+2025-03-12 12:04:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-12 12:04:44 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 12:04:44 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 12:04:51 INFO  LoginPage:44 - Starting login process...
+2025-03-12 12:04:51 INFO  LoginPage:29 - Entering username: duttaryan2002@gmail.com
+2025-03-12 12:04:51 INFO  LoginPage:34 - Entering password: [HIDDEN]
+2025-03-12 12:04:52 INFO  LoginPage:39 - Clicking on Login button
+2025-03-12 12:04:54 INFO  LoginPage:48 - Login attempt completed.
+2025-03-12 12:06:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-12 12:06:46 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 12:06:46 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 12:11:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-12 12:11:59 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 12:11:59 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 12:14:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-12 12:14:14 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 12:14:14 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 12:15:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-12 12:15:57 INFO  LoginTest:25 - Initializing test setup...
+2025-03-12 12:15:58 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 12:15:58 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 12:16:06 INFO  LoginTest:29 - Test setup completed.
+2025-03-12 12:16:06 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-12 12:16:06 INFO  LoginPage:44 - Starting login process...
+2025-03-12 12:16:06 INFO  LoginPage:29 - Entering username: duttaryan2002@gmail.com
+2025-03-12 12:16:07 INFO  LoginPage:34 - Entering password: [HIDDEN]
+2025-03-12 12:16:07 INFO  LoginPage:39 - Clicking on Login button
+2025-03-12 12:16:09 INFO  LoginPage:48 - Login attempt completed.
+2025-03-12 12:16:29 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-12 12:16:29 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-12 12:16:29 INFO  LoginTest:52 - Reading user data from Excel file...
+2025-03-12 12:16:30 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-12 12:16:30 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-12 12:16:30 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-12 12:16:30 INFO  LoginTest:70 - Excel data loading completed.
+2025-03-12 12:16:30 INFO  LoginTest:25 - Initializing test setup...
+2025-03-12 12:16:30 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 12:16:30 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 12:16:37 INFO  LoginTest:29 - Test setup completed.
+2025-03-12 12:16:37 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-12 12:16:37 INFO  LoginPage:44 - Starting login process...
+2025-03-12 12:16:37 INFO  LoginPage:29 - Entering username: duttaryan2002@gmail.com
+2025-03-12 12:16:37 INFO  LoginPage:34 - Entering password: [HIDDEN]
+2025-03-12 12:16:37 INFO  LoginPage:39 - Clicking on Login button
+2025-03-12 12:16:38 INFO  LoginPage:48 - Login attempt completed.
+2025-03-12 12:16:41 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-12 12:16:41 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-12 12:16:43 INFO  LoginTest:25 - Initializing test setup...
+2025-03-12 12:16:43 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 12:16:43 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 12:16:49 INFO  LoginTest:29 - Test setup completed.
+2025-03-12 12:16:49 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-12 12:16:49 INFO  LoginPage:44 - Starting login process...
+2025-03-12 12:16:49 INFO  LoginPage:29 - Entering username: duttaryan2002@gmail.com
+2025-03-12 12:16:49 INFO  LoginPage:34 - Entering password: [HIDDEN]
+2025-03-12 12:16:49 INFO  LoginPage:39 - Clicking on Login button
+2025-03-12 12:16:51 INFO  LoginPage:48 - Login attempt completed.
+2025-03-12 12:16:54 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-12 12:16:54 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-12 12:16:54 INFO  LoginTest:25 - Initializing test setup...
+2025-03-12 12:16:54 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 12:16:54 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 12:17:00 INFO  LoginTest:29 - Test setup completed.
+2025-03-12 12:17:00 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-12 12:17:00 INFO  LoginPage:44 - Starting login process...
+2025-03-12 12:17:00 INFO  LoginPage:29 - Entering username: duttaryan2002@gmail.com
+2025-03-12 12:17:00 INFO  LoginPage:34 - Entering password: [HIDDEN]
+2025-03-12 12:17:00 INFO  LoginPage:39 - Clicking on Login button
+2025-03-12 12:17:02 INFO  LoginPage:48 - Login attempt completed.
+2025-03-12 12:25:39 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-12 12:25:42 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 12:25:42 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 13:17:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-12 13:17:22 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 13:17:22 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 13:17:33 INFO  LoginPage:44 - Starting login process...
+2025-03-12 13:17:33 INFO  LoginPage:29 - Entering username: duttaryan2002@gmail.com
+2025-03-12 13:17:33 INFO  LoginPage:34 - Entering password: [HIDDEN]
+2025-03-12 13:17:33 INFO  LoginPage:39 - Clicking on Login button
+2025-03-12 13:17:36 INFO  LoginPage:48 - Login attempt completed.
+2025-03-12 14:57:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-12 14:57:19 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 14:57:19 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 14:57:27 INFO  LoginPage:44 - Starting login process...
+2025-03-12 14:57:27 INFO  LoginPage:29 - Entering username: duttaryan2002@gmail.com
+2025-03-12 14:57:27 INFO  LoginPage:34 - Entering password: [HIDDEN]
+2025-03-12 14:57:27 INFO  LoginPage:39 - Clicking on Login button
+2025-03-12 14:57:29 INFO  LoginPage:48 - Login attempt completed.
+2025-03-12 15:36:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-12 15:36:33 INFO  LoginTest:25 - Initializing test setup...
+2025-03-12 15:36:35 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 15:36:35 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 15:36:43 INFO  LoginTest:29 - Test setup completed.
+2025-03-12 15:36:43 INFO  LoginTest:34 - Executing Single User Login Test
+2025-03-12 15:36:43 INFO  LoginPage:44 - Starting login process...
+2025-03-12 15:36:43 INFO  LoginPage:29 - Entering username: duttaryan2002@gmail.com
+2025-03-12 15:36:43 INFO  LoginPage:34 - Entering password: [HIDDEN]
+2025-03-12 15:36:43 INFO  LoginPage:39 - Clicking on Login button
+2025-03-12 15:36:45 INFO  LoginPage:48 - Login attempt completed.
+2025-03-12 15:37:05 INFO  LoginTest:39 - Single User Login Test Completed
+2025-03-12 15:37:05 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-12 15:37:05 INFO  LoginTest:52 - Reading user data from Excel file...
+2025-03-12 15:37:06 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-12 15:37:06 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-12 15:37:06 INFO  LoginTest:65 - Loaded user: duttaryan2002@gmail.com
+2025-03-12 15:37:06 INFO  LoginTest:70 - Excel data loading completed.
+2025-03-12 15:37:06 INFO  LoginTest:25 - Initializing test setup...
+2025-03-12 15:37:06 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 15:37:06 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 15:37:12 INFO  LoginTest:29 - Test setup completed.
+2025-03-12 15:37:12 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-12 15:37:12 INFO  LoginPage:44 - Starting login process...
+2025-03-12 15:37:12 INFO  LoginPage:29 - Entering username: duttaryan2002@gmail.com
+2025-03-12 15:37:12 INFO  LoginPage:34 - Entering password: [HIDDEN]
+2025-03-12 15:37:12 INFO  LoginPage:39 - Clicking on Login button
+2025-03-12 15:37:14 INFO  LoginPage:48 - Login attempt completed.
+2025-03-12 15:37:17 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-12 15:37:17 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-12 15:37:18 INFO  LoginTest:25 - Initializing test setup...
+2025-03-12 15:37:18 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 15:37:18 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 15:37:24 INFO  LoginTest:29 - Test setup completed.
+2025-03-12 15:37:24 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-12 15:37:24 INFO  LoginPage:44 - Starting login process...
+2025-03-12 15:37:24 INFO  LoginPage:29 - Entering username: duttaryan2002@gmail.com
+2025-03-12 15:37:24 INFO  LoginPage:34 - Entering password: [HIDDEN]
+2025-03-12 15:37:24 INFO  LoginPage:39 - Clicking on Login button
+2025-03-12 15:37:26 INFO  LoginPage:48 - Login attempt completed.
+2025-03-12 15:37:29 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-12 15:37:29 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-12 15:37:29 INFO  LoginTest:25 - Initializing test setup...
+2025-03-12 15:37:29 INFO  WebDriverManager:1217 - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+2025-03-12 15:37:29 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\dutta\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+2025-03-12 15:37:36 INFO  LoginTest:29 - Test setup completed.
+2025-03-12 15:37:36 INFO  LoginTest:44 - Executing Multi-User Login Test for username: duttaryan2002@gmail.com
+2025-03-12 15:37:36 INFO  LoginPage:44 - Starting login process...
+2025-03-12 15:37:36 INFO  LoginPage:29 - Entering username: duttaryan2002@gmail.com
+2025-03-12 15:37:36 INFO  LoginPage:34 - Entering password: [HIDDEN]
+2025-03-12 15:37:36 INFO  LoginPage:39 - Clicking on Login button
+2025-03-12 15:37:38 INFO  LoginPage:48 - Login attempt completed.
+2025-03-12 15:37:41 INFO  LoginTest:47 - Multi-User Login Test Completed for username: duttaryan2002@gmail.com
+2025-03-12 15:37:41 INFO  LoginTest:76 - Closing the browser and ending the test.
+2025-03-12 15:38:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-12 15:38:14 INFO  LoginPage:44 - Starting login process...
+2025-03-12 15:38:14 INFO  LoginPage:29 - Entering username: duttaryan2002@gmail.com
+2025-03-12 15:38:14 INFO  LoginPage:34 - Entering password: [HIDDEN]
+2025-03-12 15:38:14 INFO  LoginPage:39 - Clicking on Login button
+2025-03-12 15:38:17 INFO  LoginPage:48 - Login attempt completed.
+2025-03-12 16:36:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-12 16:36:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-12 16:36:49 INFO  LoginPage:44 - Starting login process...
+2025-03-12 16:36:49 INFO  LoginPage:29 - Entering username: duttaryan2002@gmail.com
+2025-03-12 16:36:50 INFO  LoginPage:34 - Entering password: [HIDDEN]
+2025-03-12 16:36:50 INFO  LoginPage:39 - Clicking on Login button
+2025-03-12 16:36:55 INFO  LoginPage:48 - Login attempt completed.
+2025-03-12 16:37:07 INFO  LoginPage:44 - Starting login process...
+2025-03-12 16:37:07 INFO  LoginPage:29 - Entering username: duttaryan2002@gmail.com
+2025-03-12 16:37:09 INFO  LoginPage:34 - Entering password: [HIDDEN]
+2025-03-12 16:37:10 INFO  LoginPage:39 - Clicking on Login button
+2025-03-12 16:37:14 INFO  LoginPage:48 - Login attempt completed.
+2025-03-12 16:37:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dutta\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2025-03-12 16:38:11 INFO  LoginPage:44 - Starting login process...
+2025-03-12 16:38:11 INFO  LoginPage:29 - Entering username: duttaryan2002@gmail.com
+2025-03-12 16:38:12 INFO  LoginPage:34 - Entering password: [HIDDEN]
+2025-03-12 16:38:12 INFO  LoginPage:39 - Clicking on Login button
+2025-03-12 16:38:16 INFO  LoginPage:48 - Login attempt completed.

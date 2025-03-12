@@ -1,0 +1,10 @@
+<suite name="GitHub Test Suite">
+
+    <test name="GitHub Test">
+        <classes>
+            <class name="gh_testcases.CreateRepositoryTest"/>
+            <class name="gh_testcases.LoginTest"/>
+            <class name="gh_testcases.NavigationTest"/>
+        </classes>
+    </test>
+</suite>
